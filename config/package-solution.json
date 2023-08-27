@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cswp-apollo-viewer-client-side-solution",
+    "id": "5bff92d4-216f-4b28-ae4b-e012e8012f86",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "cswp-apollo-viewer description"
+      },
+      "longDescription": {
+        "default": "cswp-apollo-viewer description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "cswp-apollo-viewer Feature",
+        "description": "The feature that activates elements of the cswp-apollo-viewer solution.",
+        "id": "bc7d7165-7e23-41c2-8259-170ff64ba5f0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/cswp-apollo-viewer.sppkg"
+  }
+}
